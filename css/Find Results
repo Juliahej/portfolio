@@ -1,0 +1,90 @@
+Searching 2 files for "roboto"
+
+/Users/juliaknutas/Downloads/PortFolio_Website-master/Index.html:
+  196                                  <span><i class="fas fa-phone-alt fa-3x px-3"></i></span>
+  197                                  <div class="call-now">
+  198:                                     <a href="#" class="text-uppercase h4 font-poppins">Call Now</a>
+  199:                                     <span class="font-poppins py-2">(+91)-800-555-4986</span>
+  200                                  </div>
+  201                              </div>
+  ...
+  230                                  </div>
+  231                                  <div class="card-body text-center">
+  232:                                     <h5 class="card-title text-uppercase font-poppins">Wp developer</h5>
+  233                                      <p class="card-text text-secondary">
+  234                                          Some quick example text to build on the card
+  ...
+  245                                  </div>
+  246                                  <div class="card-body text-center">
+  247:                                     <h5 class="card-title text-uppercase font-poppins">ux/ui desing</h5>
+  248                                      <p class="card-text text-secondary">
+  249                                          Some quick example text to build on the card
+  ...
+  260                                  </div>
+  261                                  <div class="card-body text-center">
+  262:                                     <h5 class="card-title text-uppercase font-poppins">web design</h5>
+  263                                      <p class="card-text text-secondary">
+  264                                          Some quick example text to build on the card
+  ...
+  275                                  </div>
+  276                                  <div class="card-body text-center">
+  277:                                     <h5 class="card-title text-uppercase font-poppins">seo optimize</h5>
+  278                                      <p class="card-text text-secondary">
+  279                                          Some quick example text to build on the card
+
+/Users/juliaknutas/Downloads/PortFolio_Website-master/css/style.css:
+   88  .site-main .about-area .about-title h2 > span{
+   89      display: block;
+   90:     font: normal bold 49px/ 60px var(--poppins);
+   91      letter-spacing: 21px;
+   92  }
+   ..
+  163  
+  164  .site-main .brand-area .experience-area .years-area .years{
+  165:     font: normal bold 84px/40px var(--poppins);
+  166      color: var(--primary-color2);
+  167      z-index: 2;
+  ...
+  169  
+  170  .site-main .brand-area .experience-area .years-area h2 > span{
+  171:     font: normal 600 22px/30px var(--poppins);
+  172  }
+  173  
+  ...
+  218      background: transparent;
+  219      border: none;
+  220:     font: normal 500 16px/130px var(--poppins);
+  221      text-transform: uppercase;
+  222  }
+  ...
+  227  
+  228  .site-main .project-area .grid .our-project > .title h4{
+  229:     font: normal 700 25px/12px var(--poppins);
+  230  }
+  231  
+  ...
+  259  
+  260  .site-main .about-area .client .about-client h4{
+  261:     font: normal 500 21px/ 20px var(--poppins);
+  262  }
+  263  
+  ...
+  291  
+  292  .site-main .subscribe-us-area .subscribe .subscribe-title h4{
+  293:     font: normal 700 30px/ 30px var(--poppins);
+  294      color: whitesmoke;
+  295  }
+  ...
+  306      background: transparent;
+  307      color: white;
+  308:     font: normal 500 17px/20px var(--poppins);
+  309  }
+  310  
+  ...
+  329  
+  330  footer.footer-area .social h5{
+  331:     font: normal 500 23px/ 30px var(--poppins);
+  332  }
+  333  
+
+15 matches across 2 files
