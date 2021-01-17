@@ -400,14 +400,14 @@ button.cv {
 
 h1.contact-me {
     margin-top: 0px;
-    margin-left: 10px;
+    margin-left: 0px;
     font-style: italic;
    
 }
 
 p.contact {
     margin-top: 20px;
-    margin-left: 15px;
+    margin-left: 0px;
 }
 
 /* End contact page */ 
@@ -450,7 +450,7 @@ i.fab {
 
 i.hej {
     color: #c6c6c6;
-    margin-left: 10px;
+    margin-left: 0px;
     margin-top: 20px;
 
 }
