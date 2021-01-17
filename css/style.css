@@ -12,16 +12,7 @@
 
 /* end background */
 
-button.cv {
-    color: white;
-    background-color: black;
-    border-radius: 0%;
-    margin-left: 50px;
-    font:  var(--poppins);
-    text-decoration: inherit;
 
-
-}
 /* start navigation */ 
 
 .header_area .main-menu .navbar .navbar-brand{
@@ -42,14 +33,14 @@ button.cv {
 .header_area .main-menu .navbar-nav .active a{
     background: var(--gradient-color);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: #2300f3;
+    -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
 .header_area .main-menu .navbar-nav a:hover{
     background: var(--gradient-color);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: #2300f3;
+    -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
@@ -346,6 +337,14 @@ button.cv {
 
 /* End About Me */ 
 
+/* About me page */
+button.cv {
+    border-radius: 0%;
+    margin-left: 50px;
+    background-color: black;
+}
+/* End about me page */
+
 /* Subscribe me */ 
 
 .site-main .subscribe-us-area .subscribe{
@@ -441,6 +440,15 @@ section.section_2 {
 
 
 /* end marqet page*/ 
+
+a {
+    color: black;
+}
+
+
+
+
+
 
 
 
