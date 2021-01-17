@@ -431,12 +431,6 @@ section.marqet {
 
 }
 
-section.section_2 {
-     margin-top: 75px;
-    margin-left: 200px;
-    margin-right: 150px;
-
-}
 
 
 /* end marqet page*/ 
@@ -446,7 +440,13 @@ a {
 }
 
 
+i.fab {
+    color: #c6c6c6;
+    margin-left: 30px;
+    margin-top: 120px;
 
+
+}
 
 
 
